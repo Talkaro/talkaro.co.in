@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Webpage</title>
+<link rel="stylesheet" href="talkaro.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+<img src="Logo.JPG" height="150px" width="150px" title="Logo" hspace="450"/>
+<img src="BG.png" height="300px" width="780px"  title="Office Building" hspace="120"/>
+	<div class="menu">
+<ul>
+	<li><a href="#"><i class="fa fa-home"></i>Home</a></li>	
+	<li><a href="#"><i class="fa fa-address-card" aria-hidden="true"></i>About us</a>
+		<ul>
+			<li><a href="The_influence_of_total_quality_management_toward_o.pdf" target="_blank"><i class="fa fa-building"></i>Company</a></li>
+			<li><a href="KINDNESS.pptx"><i class="fa fa-users" aria-hidden="true"></i>Team</a></li>
+			<li><a href="I want to Fly.pptx"><i class="fa fa-bullseye" aria-hidden="true"></i>Vision & Mission</a></li>
+		</ul>
+	
+	</li>
+<li><a href="#"><i class="fa fa-phone"></i>Contact Us</a>
+	<ul>
+		<li><a href="mailto:talkaropvtltd@gmail.com"><i class="fa fa-mail-forward"></i>E-mail</a></li>
+		<li><a href="http://api.whatsapp.com/send?phone=8884697530"text="Hello,how may I help you?" class="whatsapp_float" target="blank"><i class="fa fa-whatsapp"></i>Whatsapp</a></li>
+	</li>
+	</ul>
+</ul>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>	
+<br>
+<br>
+<br>
+<br>
+<a href="A letter to a daughter.pptx"><img src="RD.png"/ height="150px" width="150px" hspace="50"></a>
+<a href="A nation's strength.pptx"><img src="FD.png"/ height="150px" width="150px" hspace="50"></a>
+<a href="All things bright and beautiful.pptx"><img src="AC.png"/ height="150px" width="150px" hspace="50"></a>
+<br>
+<br>
+<a href="Ants and Spiders (2).pptx"><img src="HR.png"/ height="150px" width="150px" hspace="50" vspace="15"></a>
+<a href="GIVE IT OUR ALL.pptx"><img src="PURCHASE.png"/ height="150px" width="150px" hspace="50" vspace="15"></a>
+<a href="Heaven on Earth.pptx"><img src="P.png"/ height="150px" width="150px" hspace="50" vspace="15"></a>
+<br>
+<br>
+<a href="I want to Fly.pptx"><img src="Marketing.png"/ height="150px" width="150px" hspace="300" ></a>
+<br>
+<br>
+	
+<div class="media">
+<ol>
+	<li><a href="https://www.facebook.com/Talkaropvtltd-104559061754562/" target="_blank"><i class="fa fa-facebook-square"></a></i></li>	
+	<li><a href="https://www.instagram.com/_talkaro_pvtltd/" target="_blank"><i class="fa fa-instagram"></a></i></li>
+	
+</ol>
+</div>
+</body>
+</html>
